@@ -91,7 +91,7 @@ Wiring, pin identification and commissioning are in
 
 ```yaml
 external_components:
-  - source: github://tmisker/esphome-evbox-smartgrid
+  - source: github://iTim-Technology/esphome-evbox-smartgrid
     components: [evbox_smartgrid]
 
 uart:
